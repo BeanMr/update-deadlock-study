@@ -10,7 +10,7 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='update-deadlock-study',
+    name='DeadlockStudy',
     version='0.0.1',
     description='Update according Index at the same index-key, deadlock detected',
     long_description=readme,
